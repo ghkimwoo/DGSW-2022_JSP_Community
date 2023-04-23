@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/alerthead.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/login.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/loginproc.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/logout.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/mypage.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/pageupdateproc.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/signup.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/signupproc.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/update.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/updateproc.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/userdelete.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/userdeleteproc.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/ac/userlist.jsp" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
